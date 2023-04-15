@@ -16,5 +16,5 @@ npm install
 npm run start:wechat:web
 ```
 运行成功后，你可以看到下面的界面：
-![img.png](source/img.png)
+![img.png](source/onScan.png)
 打开日志中的链接（日志中的二维码扫描识别速度较慢），扫码登录。
